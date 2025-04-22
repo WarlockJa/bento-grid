@@ -4,7 +4,7 @@ export default function AudienceGrowth({ className }: { className?: string }) {
   return (
     <div
       className={cn(
-        "flex flex-col justify-between rounded-xl bg-white p-6",
+        "flex flex-col justify-between overflow-hidden rounded-xl bg-white p-6",
         className,
       )}
     >
@@ -21,11 +21,11 @@ export default function AudienceGrowth({ className }: { className?: string }) {
         <h2 className="mb-4 text-lg">faster audience growth</h2>
       </div>
 
-      <div className="h-17">
+      <div className="h-17 w-screen">
         <img
           src="/images/illustration-audience-growth.webp"
           alt="people avatars"
-          className="h-full"
+          className="h-full w-auto"
         />
       </div>
     </div>

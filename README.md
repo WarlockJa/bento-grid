@@ -11,7 +11,6 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub]()
-- Live Site URL: [Vercel]()
+- Solution URL: [GitHub](https://github.com/WarlockJa/bento-grid)
+- Live Site URL: [Vercel](https://bento-grid-drab.vercel.app/)
 
 ## My process
 

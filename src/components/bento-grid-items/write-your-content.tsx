@@ -8,7 +8,7 @@ export default function WriteYourContent({
   return (
     <div
       className={cn(
-        "bg-custom-yellow-500 flex flex-1 flex-col justify-between gap-4 rounded-xl p-6",
+        "bg-custom-yellow-500 flex flex-1 flex-col justify-between gap-4 overflow-hidden rounded-xl p-6",
         className,
       )}
     >
@@ -16,6 +16,7 @@ export default function WriteYourContent({
         Write your content using AI.
       </h2>
 
+      {/* <div className="sm:h-56 lg:w-screen"> */}
       <div className="sm:h-56 lg:w-screen">
         <img
           src="/images/illustration-ai-content.webp"
